@@ -1,40 +1,35 @@
-# Welcome to Remix!
 
-- 📖 [Remix docs](https://remix.run/docs)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Development
 
-Run the dev server:
+# Modern UI Portfolio Concept
 
-```shellscript
-npm run dev
-```
+I have designed a modern UI concept portfolio inspired from https://www.figma.com/community/file/1408441048826723944/bentolio for my favorite singer, Zayn Malik. This project is built using Vite, React.js, and Remix, showcasing my design and development skills while celebrating Zayn's musical artistry.
+
+## Features
+
+- Elegant Design: Crafted in Figma, the portfolio features a sleek and responsive layout that highlights Zayn's work.
+- Spotify Integration: Users can enjoy Zayn Malik's music through an embedded Spotify playlist, creating an immersive experience.
+- Libraries Used:-
+    - Vite.js for fast and efficient development
+    - Tailwind CSS for stylish and responsive designs
+   - Remix for web framework
+   - React Router for smooth navigation
+   - Aos (npm package)
+
 
 ## Deployment
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-First, build your app for production:
-
-```sh
-npm run build
+To run this project run
+```bash
+  npm i
+```
+```bash
+  npm i remix
 ```
 
-Then run the app in production mode:
-
-```sh
-npm start
+```bash
+  npm run dev
 ```
 
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
