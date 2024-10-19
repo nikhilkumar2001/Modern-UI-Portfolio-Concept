@@ -32,4 +32,4 @@ To run this project run
   npm run dev
 ```
 ## Ownership
-![SelfMade](./public/logo.png)
+<img src="./public/logo.png" alt="ownership" width="100px" height="100px/">
