@@ -2,11 +2,11 @@
 ![App Screenshot](./public/ss.png)
 
 
-# Modern UI Portfolio Concept
+# Modern UI Portfolio Concept🚀
 
 I have designed a modern UI concept portfolio inspired from https://www.figma.com/community/file/1408441048826723944/bentolio for my favorite singer, Zayn Malik. This project is built using Vite, React.js, and Remix, showcasing my design and development skills while celebrating Zayn's musical artistry.
 
-## Features
+## Features🔥
 
 - Elegant Design: Crafted in Figma, the portfolio features a sleek and responsive layout that highlights Zayn's work.
 - Spotify Integration: Users can enjoy Zayn Malik's music through an embedded Spotify playlist, creating an immersive experience.
@@ -18,7 +18,7 @@ I have designed a modern UI concept portfolio inspired from https://www.figma.co
    - Aos (npm package)
 
 
-## Deployment
+## Deployment🖥️
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 To run this project run
