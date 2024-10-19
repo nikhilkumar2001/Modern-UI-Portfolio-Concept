@@ -28,8 +28,8 @@ To run this project run
 ```bash
   npm i remix
 ```
-
 ```bash
   npm run dev
 ```
-
+## Ownership
+![SelfMade](./public/logo.png)
